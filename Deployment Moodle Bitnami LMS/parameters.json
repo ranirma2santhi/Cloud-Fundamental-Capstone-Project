@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "location": {
+            "value": "eastasia"
+        },
+        "stackId": {
+            "value": "mymoodle"
+        },
+        "databasePassword": {
+            "value": null
+        },
+        "databaseAdministratorLogin": {
+            "value": "moodle_admin"
+        },
+        "appPassword": {
+            "value": null
+        },
+        "authenticationType": {
+            "value": "password"
+        },
+        "adminPassword": {
+            "value": null
+        },
+        "vmSize": {
+            "value": "Standard_B1s"
+        },
+        "dataDiskSize": {
+            "value": 10
+        },
+        "databaseSkuName": {
+            "value": "GP_Gen5_2"
+        },
+        "databaseSkuSizeGB": {
+            "value": 10
+        },
+        "databaseBackupRetentionDays": {
+            "value": 7
+        },
+        "databaseGeoRedundantBackup": {
+            "value": "Disabled"
+        },
+        "databaseVersion": {
+            "value": "5.7"
+        }
+    }
+}
