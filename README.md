@@ -1,4 +1,8 @@
-# Solusi Teknis Pengembangan Learning Management System
+#  Solusi Teknis Pengembangan Learning Management System 
+
+###### Nama        : Ni Made Rai Nirmala Santhi
+###### Kelas       : CF-001
+###### Universitas : Udayana
 
 
 ### Studi Kasus :
@@ -17,3 +21,8 @@ Solusi teknis tersebut dipasangkan dengan mempertimbangkan well-architected fram
 2.	Setting DNS ZONE
 3.	Konfigurasi Domain Name
 4.	Setting SSL
+
+
+
+**Link Video Presentasi:**
+[Video Capstone Project](https://web.microsoftstream.com/video/0ccf6cee-f258-4790-920d-9c5d7d42a5ac)
